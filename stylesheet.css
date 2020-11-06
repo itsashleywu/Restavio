@@ -81,7 +81,8 @@ i.fa-2x {
 }
 
 .card-border {
-    border-top: 10px solid #f6c16d!important;
+	border-color: #f6ddb5!important;
+    background: #fff8eb!important;
 }
 
 .btn-circle.btn-xl { 
@@ -117,4 +118,9 @@ i.fa-2x {
 
 .modal-dialog img {
 	margin-bottom: 10px;;
+}
+
+#house-rules li {
+	font-size: 1.25em;
+    list-style: decimal;
 }
